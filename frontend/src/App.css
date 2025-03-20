@@ -1,0 +1,31 @@
+html {
+  display: flex;
+  justify-content: center;
+}
+
+.product {
+  margin: 20px;
+  border: 1px solid #ccc;
+  padding: 60px;
+}
+
+.product img {
+  width: 200px;
+  height: 200px;
+}
+
+button {
+  width: 100px;
+  background: black;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-left: 40px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}

@@ -1,0 +1,4 @@
+Changes required to activate: 
+1. Change the Key ID generated from the Razorpay Dashboard to .env line 3
+2. Change the Secret Key ID generated from the Razorpay Dashboard to .env line 5
+3. Change the url to validate razorpay transaction to Product.js line 48
